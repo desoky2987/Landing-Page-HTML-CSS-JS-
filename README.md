@@ -1,6 +1,6 @@
 # Landing Page Project
 ## Demo-Preview
-landing page project is a simple tricky project to refer how javascript work denameckly on web pages.
+landing page project is a simple tricky project to refer to how javascript dynamically works on web pages.
 ### Table of Contents
 - Project Title
 - Demo-Preview
