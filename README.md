@@ -46,5 +46,6 @@ I changed the section.your-active-class style to {
 ###### Footer
 The footer contains Udacity copyright.
 ###### Author Name
-Mahmoud Mohamed Mahmoud Deosky 
+Mahmoud Mohamed Mahmoud Desouki
+
 
